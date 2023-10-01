@@ -12,7 +12,7 @@ This is a simple interactive quiz application built using HTML, CSS, and JavaScr
 
 ## Demo
 
-You can check out a live demo of the quiz application [https://65191f54b4410527e21b3503--glistening-fenglisu-01b760.netlify.app/](#insert-demo-link).
+You can check out a live demo of the quiz application link -  https://quizie-app.netlify.app/
 
 ## Features
 
